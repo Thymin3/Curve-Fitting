@@ -1,69 +1,53 @@
 # Curve-Fitting README
 
-Introduction
+## Introduction
+The Jupyter notebooks in this repository help you compute a 4PL standard curve and a linear regression standard curve from ELISA data. \
+They also find the concentration values of your sample data and save them in an Excel file. 
+The repository also includes a sample file with which you can try out the jupyter notebooks.
 
-This notebook is designed for the computation of a 4PL (4 Parameter Logistic) standard curve from ELISA data.
-It also determines the concentration values of your sample data and outputs them as an excel file.
+## Table of Contents
 
-Table of Contents
+#### Prerequisites
+#### Installation
+#### License
 
-    Prerequisites
-    Installation
-    Usage
-    Notebook Sections
-    Contributing
-    License
-
-Prerequisites
+## Prerequisites
 
 Before using this Jupyter Notebook, ensure you have the following prerequisites:
 
-    Python (version X.X or higher)
-    Jupyter Notebook installed
-    [List any specific libraries or packages required]
+Python (version 3.8 or higher) along with installing the requirements.txt file
 
-Installation
+Alternatively download + install Anaconda, which comes with all necessary prerequisites:
+https://www.anaconda.com/download
+
+## Installation
 
 To use this Jupyter Notebook, follow these steps:
 
-    Clone this repository to your local machine using Git:
+Clone this repository to your local machine using Git:
 
-    bash
-
-git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Thymin3/Curve-Fitting.git
 
 Change to the repository directory:
 
-cd your-repo
+    cd  Curve-Fitting
 
 Install the required Python packages and dependencies by running the following command:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Launch Jupyter Notebook:
 
     jupyter notebook
 
-    Open the Jupyter Notebook file named [your-notebook-name.ipynb].
+    Open the Jupyter Notebook file named [LinearELISA.ipynb.ipynb / FourParameterELISA.ipynb].
 
-Usage
-
-Follow these steps to use the Jupyter Notebook:
-
-    Open the notebook by running the Jupyter Notebook server as described in the Installation section.
-
-    Navigate to the directory containing the notebook.
-
-    Click on the notebook file to open it.
-
-    Follow the instructions and code cells within the notebook to interactively analyze data, run code, and document your work.
-
-    Save your work frequently using the "Save" button or keyboard shortcuts.
+Follow the instructions and code cells within the notebook.
 
 
-License
+## License
 
-This Jupyter Notebook is released under the [License Name]. Please review the [LICENSE.md] file for more details.
+This Jupyter Notebook is released under the MIT License.
 
 Feel free to reach out to the project maintainers or contributors if you have questions or need assistance using this Jupyter Notebook.
 
