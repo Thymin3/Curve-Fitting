@@ -2,13 +2,14 @@
 
 ## Introduction
 The Jupyter notebooks in this repository help you compute a 4PL standard curve and a linear regression standard curve from ELISA data. \
-They also find the concentration values of your sample data and save them in an Excel file.
+They also find the concentration values of your sample data and save them in an Excel file. 
+The repository also includes a sample file with which you can try out the jupyter notebooks.
 
 ## Table of Contents
 
-    Prerequisites
-    Installation
-    License
+#### Prerequisites
+#### Installation
+#### License
 
 ## Prerequisites
 
