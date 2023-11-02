@@ -1,41 +1,39 @@
 # Curve-Fitting README
 
-Introduction
+## Introduction
 The Jupyter notebooks in this repository help you compute a 4PL standard curve and a linear regression standard curve from ELISA data. \
 They also find the concentration values of your sample data and save them in an Excel file.
 
-Table of Contents
+## Table of Contents
 
     Prerequisites
     Installation
     License
 
-Prerequisites
+## Prerequisites
 
 Before using this Jupyter Notebook, ensure you have the following prerequisites:
 
-    Python (version 3.8 or higher) along with installing the requirements.txt file
+Python (version 3.8 or higher) along with installing the requirements.txt file
 
-    Alternatively download + install Anaconda, which comes with all necessary prerequisites:
-    https://www.anaconda.com/download
+Alternatively download + install Anaconda, which comes with all necessary prerequisites:
+https://www.anaconda.com/download
 
-Installation
+## Installation
 
 To use this Jupyter Notebook, follow these steps:
 
-    Clone this repository to your local machine using Git:
+Clone this repository to your local machine using Git:
 
-    bash
-
-git clone https://github.com/Thymin3/Curve-Fitting.git
+    git clone https://github.com/Thymin3/Curve-Fitting.git
 
 Change to the repository directory:
 
-cd your-repo
+    cd your-repo
 
 Install the required Python packages and dependencies by running the following command:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Launch Jupyter Notebook:
 
@@ -43,20 +41,10 @@ Launch Jupyter Notebook:
 
     Open the Jupyter Notebook file named [LinearELISA.ipynb.ipynb / FourParameterELISA.ipynb].
 
-Usage
-
-Follow these steps to use the Jupyter Notebook:
-
-    Open the notebook by running the Jupyter Notebook server as described in the Installation section.
-
-    Navigate to the directory containing the notebook.
-
-    Click on the notebook file to open it.
-
-    Follow the instructions and code cells within the notebook.
+Follow the instructions and code cells within the notebook.
 
 
-License
+## License
 
 This Jupyter Notebook is released under the MIT License
 
