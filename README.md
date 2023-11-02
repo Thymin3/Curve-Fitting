@@ -30,7 +30,7 @@ Clone this repository to your local machine using Git:
 
 Change to the repository directory:
 
-    cd your-repo
+    cd  Curve-Fitting
 
 Install the required Python packages and dependencies by running the following command:
 
@@ -47,7 +47,7 @@ Follow the instructions and code cells within the notebook.
 
 ## License
 
-This Jupyter Notebook is released under the MIT License
+This Jupyter Notebook is released under the MIT License.
 
 Feel free to reach out to the project maintainers or contributors if you have questions or need assistance using this Jupyter Notebook.
 
